@@ -32,3 +32,9 @@ Go to [hjfitz.github.io/Placement-Logs](hjfitz.github.io/Placement-logs) for a b
 	* [May](2018/May)
 	* [June](2018/Jun)
 	* [July](2018/Jul)
+
+## Misc.
+
+Template used: [template.md](template.md)
+Final statements: [final-statements.md](final-statements.md)
+
