@@ -1,4 +1,11 @@
 # Placement Logs
+
+Student Name: Harry J. Fitzgerald
+Student Number: 780461
+Course: MEng Computer Science
+Company: 
+
+
 Go to [hjfitz.github.io/Placement-Logs](hjfitz.github.io/Placement-logs) for a better view
 
 ## Contents
