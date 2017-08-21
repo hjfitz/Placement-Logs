@@ -13,7 +13,7 @@
 **Role**: Developer
 
 
-Go to [hjfitz.github.io/Placement-Logs](hjfitz.github.io/Placement-logs) for a better view
+Go to [hjfitz.github.io/Placement-Logs](https://hjfitz.github.io/Placement-Logs) for a better view
 
 ## Contents
 
@@ -36,5 +36,6 @@ Go to [hjfitz.github.io/Placement-Logs](hjfitz.github.io/Placement-logs) for a b
 ## Misc.
 
 Template used: [template.md](template.md)
+
 Final statements: [final-statements.md](final-statements.md)
 
