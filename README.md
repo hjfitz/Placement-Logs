@@ -1,9 +1,16 @@
 # Placement Logs
 
-Student Name: Harry J. Fitzgerald
-Student Number: 780461
-Course: MEng Computer Science
-Company: 
+**Student Name**: Harry J. Fitzgerald
+
+**Student Number**: 780461
+
+**Student Email**: [up780461@myport.ac.uk](mailto:up780461@myport.ac.uk)
+
+**Course**: MEng Computer Science
+
+**Company**: Eli Lilly and Company
+
+**Role**: Developer
 
 
 Go to [hjfitz.github.io/Placement-Logs](hjfitz.github.io/Placement-logs) for a better view
