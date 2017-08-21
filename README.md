@@ -13,7 +13,7 @@
 **Role**: Developer
 
 
-Go to [hjfitz.github.io/Placement-Logs](hjfitz.github.io/Placement-logs) for a better view
+Go to [hjfitz.github.io/Placement-Logs](https://hjfitz.github.io/Placement-Logs) for a better view
 
 ## Contents
 
