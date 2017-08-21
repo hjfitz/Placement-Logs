@@ -36,5 +36,6 @@ Go to [hjfitz.github.io/Placement-Logs](hjfitz.github.io/Placement-logs) for a b
 ## Misc.
 
 Template used: [template.md](template.md)
+
 Final statements: [final-statements.md](final-statements.md)
 
