@@ -1,4 +1,7 @@
-# Contents
+# Placement Logs
+Go to [hjfitz.github.io/Placement-Logs](hjfitz.github.io/Placement-logs) for a better view
+
+## Contents
 
 * [2017](2017)
 	* [July](2017/Jul)
