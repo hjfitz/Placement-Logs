@@ -17,28 +17,10 @@
 ## Additional Information
 During my time at Eli Lilly and Co, I was a full stack JavaScript developer. I wrote Node.js for server-side software and JavaScript (with heavy use of React) on the front-end. I was a member of Cirrus Labs, which was a part of the larger Cirrus team.
 
-Within Cirrus Labs, there were 5 of us - all on placement.
-### Developers
-* Myself
-* Sam T
-* Sam S
-* Peter
-
-### Scrum Master
-* Phil
-
-Within our team, we followed an [Agile Scrum](https://www.atlassian.com/agile/scrum) methodology. Our sprints generally lasted 2 weeks.
+Within Cirrus Labs, there were 5 of us - all on placement. We followed an [Agile Scrum](https://www.atlassian.com/agile/scrum) methodology. Our sprints generally lasted 2 weeks.
 
 ## Projects
 During the placement, I took on a number of projects. Either shared with the developers, or my own personal projects. The shared projects are referred to 'the current sprint'
-
-### Cirrus Labs
-* LPLD (Jul 2017 - ?)
-
-### Personal
-* Cirrus Authentication Module (Throughout)
-* CIO Awards (Sep - ?)
-* Raspberry Pi (Aug - ?)
 
 ## Contents
 
@@ -59,8 +41,5 @@ During the placement, I took on a number of projects. Either shared with the dev
 * [July](2018/Jul)
 
 ## Misc.
-
-Template used: [template.md](template.md)
-
 Final statements: [final-statements.md](final-statements.md)
 
