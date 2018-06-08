@@ -31,6 +31,7 @@ During the placement, I took on a number of projects. Either shared with the dev
 * [October](2017/Oct)
 * [November](2017/Nov)
 * [December](2017/Dec)
+
 ### [2018](2018)
 * [January](2018/Jan)
 * [February](2018/Feb)
