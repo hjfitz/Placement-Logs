@@ -14,6 +14,8 @@
 
 **Role**: Developer
 
+**Available at:**: hjfitz/github.io/Placement-Logs
+
 ## Additional Information
 During my time at Eli Lilly and Co, I was a full stack JavaScript developer. I wrote Node.js for server-side software and JavaScript (with heavy use of React) on the front-end. I was a member of Cirrus Labs, which was a part of the larger Cirrus team.
 
