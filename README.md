@@ -22,6 +22,9 @@ Within Cirrus Labs, there were 5 of us - all on placement. We followed an [Agile
 ## Projects
 During the placement, I took on a number of projects. Either shared with the developers, or my own personal projects. The shared projects are referred to 'the current sprint'
 
+## Competences
+ICTTech competences have not been thoroughly expanded on as I do not wish to apply for ICTTech.
+
 ## Contents
 
 ### [2017](2017)
